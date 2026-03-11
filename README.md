@@ -68,7 +68,7 @@ Suggestions:
 - Include project links
 
 ---
-
+![alt text](image.png)
 ## Author
 
 Praneeth
